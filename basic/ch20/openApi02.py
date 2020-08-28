@@ -1,4 +1,5 @@
 import requests
+import pprint
 
 headers = {
     'X-Naver-Client-Id' : 'RkLQo7eDF4QVrC93IQzp',
@@ -22,3 +23,4 @@ print(res.json())
 result = res.json()['items'][2]['title']
 print('result 번째 title만 가져옴')
 print(result)
+
