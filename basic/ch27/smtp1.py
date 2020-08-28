@@ -10,7 +10,7 @@ smtp = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 smtp.ehlo()
 
 # login
-smtp.login('dev.heejin@gmail.com', '앱비밀번호넣기')
+smtp.login('dev.heejin@gmail.com', 'hodjvupidyyhqqbn')
 
 # message 생성
 msg = EmailMessage()
@@ -28,3 +28,5 @@ msg.set_content('''
 # 메일전송
 smtp.send_message(msg)
 smtp.quit()
+
+

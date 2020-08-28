@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c579b9-60f4-4195-9389-a2349abed8ec" name="Default Changelist" comment="" />
+    <list default="true" id="34c579b9-60f4-4195-9389-a2349abed8ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ch27/smtp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch27/smtp1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,27 +25,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="68" />
+          <entry key="py" value="69" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="68" />
+          <entry key="Python" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="18163" />
+          <entry key="py" value="19411" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="18159" />
+          <entry key="Python" value="19407" />
           <entry key="RegExp" value="4" />
         </counts>
       </usages-collector>
@@ -100,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/ch20/openApi03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="39" lean-forward="true" selection-start-line="31" selection-end-line="39" />
+              <caret line="39" selection-start-line="31" selection-end-line="39" />
               <folding>
                 <element signature="e#13#41#0" expanded="true" />
               </folding>
@@ -112,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/ch20/openApi04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#75#103#0" expanded="true" />
               </folding>
@@ -124,18 +126,32 @@
         <entry file="file://$PROJECT_DIR$/ch20/openApi022.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch27/smtp1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" selection-start-line="27" selection-end-line="29" selection-end-column="11" />
+              <folding>
+                <element signature="e#25#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch27/smtp1.py">
+        <entry file="file://$PROJECT_DIR$/ch27/smtp2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="390">
+              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding>
                 <element signature="e#25#63#0" expanded="true" />
+                <marker date="1598585663981" expanded="true" signature="123:128" ph="..." />
+                <marker date="1598585663981" expanded="true" signature="622:822" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch01/operator/complexOperator.py" />
         <option value="$PROJECT_DIR$/ch03/if02.py" />
         <option value="$PROJECT_DIR$/ch03/if06.py" />
         <option value="$PROJECT_DIR$/ch03/for01.py" />
@@ -207,12 +222,13 @@
         <option value="$PROJECT_DIR$/ch20/openApi03.py" />
         <option value="$PROJECT_DIR$/ch20/openApi04.py" />
         <option value="$PROJECT_DIR$/ch27/smtp1.py" />
+        <option value="$PROJECT_DIR$/ch27/smtp2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="409" />
-    <option name="y" value="24" />
+    <option name="x" value="339" />
+    <option name="y" value="108" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -236,6 +252,11 @@
               <item name="basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="ch20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="ch27" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic" type="b2602c69:ProjectViewProjectNode" />
@@ -281,28 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.smtp1">
-    <configuration name="openApi01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch20" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch20/openApi01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.smtp2">
     <configuration name="openApi02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -387,20 +387,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="smtp2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch27/smtp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.openApi01" />
       <item itemvalue="Python.openApi02" />
       <item itemvalue="Python.openApi03" />
       <item itemvalue="Python.openApi04" />
       <item itemvalue="Python.smtp1" />
+      <item itemvalue="Python.smtp2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.smtp2" />
         <item itemvalue="Python.smtp1" />
         <item itemvalue="Python.openApi04" />
         <item itemvalue="Python.openApi03" />
         <item itemvalue="Python.openApi02" />
-        <item itemvalue="Python.openApi01" />
       </list>
     </recent_temporary>
   </component>
@@ -444,13 +465,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch03/for02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch15/password_locker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -777,7 +791,7 @@
     <entry file="file://$PROJECT_DIR$/ch20/openApi03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="39" lean-forward="true" selection-start-line="31" selection-end-line="39" />
+          <caret line="39" selection-start-line="31" selection-end-line="39" />
           <folding>
             <element signature="e#13#41#0" expanded="true" />
           </folding>
@@ -787,7 +801,7 @@
     <entry file="file://$PROJECT_DIR$/ch20/openApi04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#75#103#0" expanded="true" />
           </folding>
@@ -797,16 +811,28 @@
     <entry file="file://$PROJECT_DIR$/ch20/openApi022.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch27/smtp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <caret line="27" selection-start-line="27" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="e#25#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch27/smtp2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding>
+            <element signature="e#25#63#0" expanded="true" />
+            <marker date="1598585663981" expanded="true" signature="123:128" ph="..." />
+            <marker date="1598585663981" expanded="true" signature="622:822" ph="..." />
           </folding>
         </state>
       </provider>
